@@ -10,8 +10,11 @@ Te invitamos a una nueva edición de live coding para aprender todo lo que neces
 
 A continuación te compartimos algunos enlaces de interés que se compartieron durante el taller:
 
-[https://tokens.studio/](https://tokens.studio/) 
+https://tokens.studio/
+
 https://amzn.github.io/style-dictionary/#/README
+
 https://www.style-dictionary-play.dev/
+
 https://www.npmjs.com/package/token-transformer
 
